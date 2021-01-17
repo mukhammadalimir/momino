@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'Inconsolata_Condensed-Light';
+    src: url(../fonts/Inconsolata_Condensed-Light.ttf);
+}
+@font-face{
+    font-family: 'Inconsolata_Condensed-Regular';
+    src: url(../fonts/Inconsolata_Condensed-Regular.ttf);
+}
+@font-face{
+    font-family: 'PlayfairDisplay-Regular';
+    src: url(../fonts/PlayfairDisplay-Regular.ttf);
+}
